@@ -108,7 +108,7 @@ Para acceder a la base de datos y observar los comportamientos de las tablas, es
 
 Información:
 
-Se debe recordar que, por requerimiento se trabaja con bases de datos en memoria, por lo tanto, las tablas y su información solo existirán cuando el proyecto esté en ejecución. 
+Se debe recordar que, por requerimiento se trabaja con bases de datos en memoria, por lo tanto, las tablas y su información solo existirán cuando el proyecto esté en ejecución. No se adjunta script de base de datos debido a que no se necesitaría para probar el proyecto.
 Usuario: 'sa'
 Password: 'password'
 Documentacion swapper
